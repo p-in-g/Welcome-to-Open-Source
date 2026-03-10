@@ -843,6 +843,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/p-in-g">
+                    <img src="https://avatars.githubusercontent.com/u/202820630?v=4" width="100px;"
+                        alt="Paridhi" />
+                    <br />
+                    <sub>
+                        <b>Paridhi</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/sridevkp">
                     <img src="https://avatars.githubusercontent.com/u/69075577?v=4" width="100px;" alt="Sridev"/>
                     <br />
